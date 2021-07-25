@@ -76,7 +76,7 @@ const EditUser = () => {
                             <ReactBootstrap.Form.Group className="mb-3" controlId="formBasicSalary">
                                 <ReactBootstrap.Form.Label>Salary</ReactBootstrap.Form.Label>
                                 <ReactBootstrap.Form.Control 
-                                type="text" 
+                                type="number" 
                                 placeholder="Enter Your Designation" 
                                 name="salary"
                                 value ={salary} 
