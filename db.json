@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Akansha",
+      "designation": "Software Developer",
+      "salary": "50,00011111"
+    },
+    {
+      "id": "2",
+      "name": "Abhinav",
+      "designation": "Software Developer",
+      "salary": "50,00011111"
+    },
+    {
+      "id": "3",
+      "name": "Akash",
+      "designation": "Software Developer",
+      "salary": "50,000"
+    },
+    {
+      "id": "4",
+      "name": "Aarya",
+      "designation": "Software Developer",
+      "salary": "50,000"
+    },
+    {
+      "name": "Pooja ",
+      "designation": "Data Entry",
+      "salary": "40000",
+      "id": 101
+    },
+    {
+      "name": "Akansha Thakur ",
+      "designation": "Front End Developer",
+      "salary": "60,0000",
+      "id": 104
+    }
+  ]
+}
