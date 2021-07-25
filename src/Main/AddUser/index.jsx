@@ -64,7 +64,7 @@ const AddUser = () => {
                             <ReactBootstrap.Form.Group className="mb-3" controlId="formBasicSalary">
                                 <ReactBootstrap.Form.Label>Salary</ReactBootstrap.Form.Label>
                                 <ReactBootstrap.Form.Control 
-                                type="text" 
+                                type="number" 
                                 placeholder="Enter Your Salary" 
                                 name="salary"
                                 value ={salary} 
